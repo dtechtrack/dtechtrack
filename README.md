@@ -85,9 +85,9 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruchk&show_icons=true&theme=radical" alt="Dhruvi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dtechtrack&show_icons=true&theme=radical" alt="Dhruvi's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruchk&theme=radical" alt="Dhruvi's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtechtrack&theme=radical" alt="Dhruvi's Streak Stats" />
 </p>
 
 ---
