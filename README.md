@@ -1,7 +1,7 @@
 <!-- Dhruvi Topiya - Colorful GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#f06292;">Dhruvi Topiya</span></h1>
-<h3 align="center">✨ 3rd-Year B.Tech Computer Engineering Student | Cloud Computing Enthusiast | DevOps/MERN Stack Developer ✨</h3>
+<h3 align="center">✨ B.Tech Computer Engineering Student | Cloud Computing Enthusiast | DevOps/MERN Stack Developer ✨</h3>
 
 ---
 
