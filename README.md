@@ -6,7 +6,7 @@
 ---
 
 ### 💫 About Me  
-🌟 I'm a dedicated and proactive **3rd-year Computer Engineering** student at **Marwadi University**.  
+🌟 I'm a dedicated and proactive **4th-year Computer Engineering** student at **Marwadi University**.  
 ☁️ Skilled in **Cloud Computing, DevOps tools, and CI/CD pipeline design** — with hands-on experience using **Docker and AWS**.  
 🚀 Passionate about **MERN Stack** and **Cloud-based Applications**.  
 🎯 Currently focusing on **Cloud Architecture, CI/CD**, and **Full-Stack Development**.  
