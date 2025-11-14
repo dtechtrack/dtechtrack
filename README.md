@@ -42,9 +42,9 @@
 > 🌼 **Description:** A branding website for women representing colorful Indian culture.  
 > 🛠️ **Technologies:** MERN Stack, VSCode
 
-#### ⚡ [GSQL](#)
-> 💡 **Description:** SQL query generator for ease of database operations.  
-> 🛠️ **Technologies:** ReactJS, NodeJS, ExpressJS
+#### ⚡ [Dotdash-Vault-Core-56](#)
+> 💡 **Description:** A website to secure user documents.  
+> 🛠️ **Technologies:** TypeScript, Azure, MongoDB, VSCode
 
 #### ☁️ [Student Record](#)
 > 🧩 **Description:** Web app that stores and retrieves student data using AWS.  
